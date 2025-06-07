@@ -1,0 +1,14 @@
+C:\Users\thali\OneDrive\Área de Trabalho\estudo sozinho\bin\Debug\net9.0\estudo sozinho.exe
+C:\Users\thali\OneDrive\Área de Trabalho\estudo sozinho\bin\Debug\net9.0\estudo sozinho.deps.json
+C:\Users\thali\OneDrive\Área de Trabalho\estudo sozinho\bin\Debug\net9.0\estudo sozinho.runtimeconfig.json
+C:\Users\thali\OneDrive\Área de Trabalho\estudo sozinho\bin\Debug\net9.0\estudo sozinho.dll
+C:\Users\thali\OneDrive\Área de Trabalho\estudo sozinho\bin\Debug\net9.0\estudo sozinho.pdb
+C:\Users\thali\OneDrive\Área de Trabalho\estudo sozinho\obj\Debug\net9.0\estudo sozinho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thali\OneDrive\Área de Trabalho\estudo sozinho\obj\Debug\net9.0\estudo sozinho.AssemblyInfoInputs.cache
+C:\Users\thali\OneDrive\Área de Trabalho\estudo sozinho\obj\Debug\net9.0\estudo sozinho.AssemblyInfo.cs
+C:\Users\thali\OneDrive\Área de Trabalho\estudo sozinho\obj\Debug\net9.0\estudo sozinho.csproj.CoreCompileInputs.cache
+C:\Users\thali\OneDrive\Área de Trabalho\estudo sozinho\obj\Debug\net9.0\estudo sozinho.dll
+C:\Users\thali\OneDrive\Área de Trabalho\estudo sozinho\obj\Debug\net9.0\refint\estudo sozinho.dll
+C:\Users\thali\OneDrive\Área de Trabalho\estudo sozinho\obj\Debug\net9.0\estudo sozinho.pdb
+C:\Users\thali\OneDrive\Área de Trabalho\estudo sozinho\obj\Debug\net9.0\estudo sozinho.genruntimeconfig.cache
+C:\Users\thali\OneDrive\Área de Trabalho\estudo sozinho\obj\Debug\net9.0\ref\estudo sozinho.dll
